@@ -1,0 +1,57 @@
+/*
+.special-GERAL{
+    margin: 2px 0 0 15px;
+    font-weight: bold;
+    color: rgba(138, 138, 138, 0.349);
+    float: left;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+
+}
+.special-TOPO{
+    margin: 2px 0 0 15px;
+    font-weight: bold;
+    color: deeppink;
+    float: left;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+
+}
+.special-CONTEUDO{
+    margin: 2px 0 0 15px;
+    font-weight: bold;
+    color: rgba(25, 194, 143, 0.459);
+    vertical-align: center;
+    float: left;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+
+}
+
+.special-MENU{
+    margin: 2px 0 0 15px;
+    font-weight: bold;
+    color: rgba(11, 173, 194, 0.603);
+    vertical-align: center;
+    float: left;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+
+}
+.special-RODAPE{
+    margin: 2px 0 0 15px;
+    font-weight: bold;
+    color: rgb(255, 159, 14);
+    vertical-align: center;
+    float: left;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+
+}
+
+*/
+.title{
+    color: rgb(114, 134, 162);
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+}
